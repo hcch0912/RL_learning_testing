@@ -1,4 +1,4 @@
 # RL_learning_testing
 Implementation of Algorithms
 
-Basic Core algorithm implementation
+Basic Core algorithm implementation with tensorflow
